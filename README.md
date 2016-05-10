@@ -7,13 +7,13 @@ I am using a Microsoft Natural Ergonomic 4000 keyboard on a MacBook Pro laptop a
 
 _This may be useful for Emacs users._
 
-*The file swaps CAPS with Left CTRL and enables the Right ALT key (meta).*
+**The file swaps CAPS with Left CTRL and enables the Right ALT key (meta).**
 
 ## Install
-1. Copy file to `/usr/share/X11/xkb/symbols/pc`.
+Copy file to `/usr/share/X11/xkb/symbols/pc`.
 
 ```shell
   sudo cp pc /usr/share/X11/xkb/symbols/pc
 ```
 
-2. Restart the machine.
+Restart the machine.
